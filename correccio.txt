@@ -1,0 +1,19 @@
+Exercici 1: 1.75/2
+(a) 1/1
+(b) 0.75/1 
+Tens una petita errada:
+cost-total= preu_entrada * nombre_entrades - ((nombre_entrades_retornades * preu_entrades * percentatge)/100)
+
+Els noms de les variables no poden tenir "-", ja que es el símbol de restar. Hauries d'utilitzar barra-baixa "_".
+
+Exercici 2: 1.5/1.5
+
+Exercici 3: 0/1.5
+
+Exercici 4: 0/4
+
+
+Github: 1/1
+Jupyter: 1/1
+
+Nota final: 5.25/11 --> 4,77
