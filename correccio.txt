@@ -8,7 +8,16 @@ Els noms de les variables no poden tenir "-", ja que es el símbol de restar. Ha
 
 Exercici 2: 1.5/1.5
 
-Exercici 3: 0/1.5
+Exercici 3: 1/1.5
+Ho vas fer només amb un valor de r i es demanava per a dos valors de r.
+Tampoc està gaire ben presentat:
+  import math
+  r=1
+  A=1
+  v=1
+  p=2*math.pi*r
+  print(round(p,2))
+Aquest A=1 i v=1 no tenen sentit!
 
 Exercici 4: 0/4
 
@@ -16,4 +25,4 @@ Exercici 4: 0/4
 Github: 1/1
 Jupyter: 1/1
 
-Nota final: 5.25/11 --> 4,77
+Nota final: 6.25/11 --> 5,68
